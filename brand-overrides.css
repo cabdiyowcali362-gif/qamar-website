@@ -1,0 +1,6 @@
+/* Qamar's original teal brand identity, applied across the redesign. */
+:root{--wine:#008a82;--wine-dark:#006b65;--cream:#f3f7f5;--paper:#fffefd;--ink:#163735;--muted:#647270;--gold:#c8a469;--line:#d7e1de}
+.hero-image-overlay{background:linear-gradient(125deg,#006b65aa 0%,transparent 58%)}
+.course-card:before{background:#087d76}.course-card.featured{background:#007b74}
+.journey-overlay{background:linear-gradient(90deg,#003f3ce0 5%,#006b65b1 42%,#123a3835 100%)}
+.support-art{color:#0b7771}
